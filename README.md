@@ -1,7 +1,7 @@
 ### Hi, I'm Ana 👋
 ______________________________________________________________
 
-I am a 5th semester student in systems engineering, I am passionate about learning web development independently and collaborating on university projects.
+I am a 8th semester student in systems engineering, I am passionate about learning web development independently and collaborating on university projects.
 
 🌱 I have my most important projects here, some of them are desktop applications, web pages designed and coded by me.
 
